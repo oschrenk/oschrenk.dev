@@ -1,0 +1,7 @@
+# README
+
+## DEVELOPMENT
+
+```
+zola serve
+```
