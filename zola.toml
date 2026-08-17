@@ -1,4 +1,4 @@
-# serene v5.6.1
+# serene v5.7.0
 #
 # https://github.com/isunjn/serene/blob/latest/USAGE.md
 #
@@ -50,6 +50,8 @@ blog_section_path = "/posts"
 
 back_link_text = "Back" # Text of the back button
 force_theme = false     # false | "light" | "dark"
+
+# og_image = "img/og.png" # Default social-media preview image (Open Graph): path in static folder or full URL
 
 footer_copyright = "© 2026 <Oliver Schrenk>"
 footer_credits = false                       # Whether to show "Built with zola and serene" in footer
